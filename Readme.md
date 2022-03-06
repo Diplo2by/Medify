@@ -12,8 +12,8 @@ When a person's medical history is shared with the medical team, the chances of 
 ## Tech Stack
 
 **Client:** Flutter
-
-**Server:** Infura, Metamask
+**FrameWorks:** web3dart
+**Backend:** Infura APIs, Metamask wallet, Pinata Pinning APIs
 
 
 ## Demo
