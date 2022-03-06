@@ -15,6 +15,13 @@ When a person's medical history is shared with the medical team, the chances of 
 **FrameWorks:** web3dart
 **Backend:** Infura APIs, Metamask wallet, Pinata Pinning APIs
 
+## Screenshots
+https://github.com/Diplo2by/Medify/blob/main/assets/img1.jpeg
+https://github.com/Diplo2by/Medify/blob/main/assets/img2.jpeg
+https://github.com/Diplo2by/Medify/blob/main/assets/img3.jpeg
+https://github.com/Diplo2by/Medify/blob/main/assets/img4.jpeg
+https://github.com/Diplo2by/Medify/blob/main/assets/img5.jpeg
+
 
 ## Demo
 This is a little video showing the app in action.
