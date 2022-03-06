@@ -18,9 +18,7 @@ When a person's medical history is shared with the medical team, the chances of 
 ## Screenshots
 ![App Screenshot](https://github.com/Diplo2by/Medify/blob/main/assets/img1.jpeg)
 ![App Screenshot](https://github.com/Diplo2by/Medify/blob/main/assets/img2.jpeg)
-![App Screenshot](https://github.com/Diplo2by/Medify/blob/main/assets/img3.jpeg)
-![App Screenshot](https://github.com/Diplo2by/Medify/blob/main/assets/img4.jpeg)
-![App Screenshot](https://github.com/Diplo2by/Medify/blob/main/assets/img5.jpeg)
+
 
 ## Demo
 This is a little video showing the app in action.
